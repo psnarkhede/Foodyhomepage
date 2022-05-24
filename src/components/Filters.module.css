@@ -1,0 +1,19 @@
+.filters{
+    display:flex;
+    height:30px;
+    justify-content: space-evenly;
+    align-items: center;
+    width:94%;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.btn{
+    padding:5px 10px 5px 10px;
+    font-size: 16px;
+    border:1px solid crimson;
+    border-radius: 8px;
+    background-color: crimson;
+    color:white;
+    cursor: pointer;
+}

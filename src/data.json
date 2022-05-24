@@ -1,0 +1,260 @@
+[
+    {
+        "id":"1",
+        "image":"https://b.zmtcdn.com/data/pictures/3/19321563/cab9582b2c9416f4ce3732eb76c21bac_o2_featured_v2.jpg",
+        "heading":"Shreeji Pure Veg",
+        "serves":["North Indian", "Chinese", "Pizza", "Sandwich", "Beverages", "Shake"],
+        "rating":3.8,
+        "costforone":150,
+        "votes":2475,
+        "offer":60,
+        "deliverytime":43,
+        "payment":"Card"
+    },
+
+    {
+        "id":"2",
+        "image":"https://b.zmtcdn.com/data/pictures/chains/6/10506/6fa52a1c7dad34faa24f1bae4e7159de_o2_featured_v2.jpg",
+        "heading":"Domino's Pizza",
+        "serves":["Pizza", "Fast Food", "Desserts", "Beverages"],
+        "rating":3.5,
+        "costforone":200,
+        "votes":2575,
+        "offer":20,
+        "deliverytime":30,
+        "payment":"Cash and Card"
+    },
+
+    {
+        "id":"3",
+        "image":"https://b.zmtcdn.com/data/pictures/5/10975/a848c994d90eedce7bab2f6a3fa32b8a_o2_featured_v2.jpg",
+        "heading":"Kimling",
+        "serves":["Chinese", "Asian", "Fast Food", "Thai", "Seafood", "Sichuan"],
+        "rating":4.1,
+        "costforone":300,
+        "votes":10250,
+        "offer":30,
+        "deliverytime":46,
+        "payment":"Cash and Card"
+    },
+
+    {
+        "id":"4",
+        "image":"https://b.zmtcdn.com/data/pictures/chains/3/10503/c708fcdb888abd4f493c0fdc67ac766e_o2_featured_v2.jpg",
+        "heading":"Pizza Hut",
+        "serves":["Pizza", "Fast Food", "Desserts", "Beverages"],
+        "rating":3.7,
+        "costforone":150,
+        "votes":2025,
+        "offer":50,
+        "deliverytime":30,
+        "payment":"Cash"
+    },
+
+    {
+        "id":"5",
+        "image":"https://b.zmtcdn.com/data/pictures/chains/1/10571/c0ba9ec0f08684316b2552a8eb5a1ea8_o2_featured_v2.jpg",
+        "heading":"McDonalds",
+        "serves":["Pizza", "Fast Food", "Desserts", "Beverages"],
+        "rating":4.2,
+        "costforone":200,
+        "votes":1375,
+        "offer":20,
+        "deliverytime":25,
+        "payment":"Cash, Card and UPI"
+    },
+
+    {
+        "id":"6",
+        "image":"https://b.zmtcdn.com/data/pictures/chains/0/13480/08c8c88c1b147ced1a213bf35337b761_o2_featured_v2.jpg",
+        "heading":"MH12 Pav Bhaji",
+        "serves":["Street Food", "Fast Food", "Beverages", "Desserts"],
+        "rating":4.1,
+        "costforone":270,
+        "votes":3275,
+        "offer":10,
+        "deliverytime":23,
+        "payment":"Cash"
+    },
+
+    {
+        "id":"7",
+        "image":"https://b.zmtcdn.com/data/pictures/chains/8/12148/8ae28baddb7541270793a5fbd47cb248_o2_featured_v2.jpg",
+        "heading":"Shahji's Paratha House",
+        "serves":["North Indian"],
+        "rating":4.2,
+        "costforone":350,
+        "votes":2425,
+        "offer":15,
+        "deliverytime":25,
+        "payment":"Cash"
+    },
+
+    {
+        "id":"8",
+        "image":"https://b.zmtcdn.com/data/pictures/chains/6/11326/524ca3f88e6e998c5b31dcba189ffedc_o2_featured_v2.jpg",
+        "heading":"Rolls Mania",
+        "serves":["Rolls", "Fast Food", "North Indian", "Chinese"],
+        "rating":4.1,
+        "costforone":300,
+        "votes":2425,
+        "offer":50,
+        "deliverytime":31,
+        "payment":"Cash, Card and UPI"
+    },
+
+    {
+        "id":"9",
+        "image":"https://b.zmtcdn.com/data/pictures/chains/6/10556/9c9c5614ae656da63c55327768e32850_o2_featured_v2.jpg",
+        "heading":"Subway",
+        "serves":["Healthy Food", "Fast Food", "Beverages", "Desserts"],
+        "rating":4.0,
+        "costforone":200,
+        "votes":2875,
+        "offer":20,
+        "deliverytime":31,
+        "payment":"Cash, Card and UPI"
+    },
+
+    {
+        "id":"10",
+        "image":"https://b.zmtcdn.com/data/pictures/chains/3/18315713/afec4a554cbb34f85a13da1395384fdc_o2_featured_v2.jpg",
+        "heading":"Creezy Cheese",
+        "serves":["Fast Food", "Pizza", "Sandwich", "Beverages"],
+        "rating":4.2,
+        "costforone":180,
+        "votes":2475,
+        "offer":20,
+        "deliverytime":33,
+        "payment":"Cash and Card"
+    },
+
+    {
+        "id":"11",
+        "image":"https://b.zmtcdn.com/data/pictures/3/19321563/cab9582b2c9416f4ce3732eb76c21bac_o2_featured_v2.jpg",
+        "heading":"Shreeji Pure Veg",
+        "serves":["North Indian", "Chinese", "Pizza", "Sandwich", "Beverages", "Shake"],
+        "rating":3.3,
+        "costforone":190,
+        "votes":2575,
+        "offer":33,
+        "deliverytime":40,
+        "payment":"Cash"
+    },
+
+    {
+        "id":"12",
+        "image":"https://b.zmtcdn.com/data/pictures/chains/6/10506/6fa52a1c7dad34faa24f1bae4e7159de_o2_featured_v2.jpg",
+        "heading":"Domino's Pizza",
+        "serves":["Pizza", "Fast Food", "Desserts", "Beverages"],
+        "rating":3.8,
+        "costforone":400,
+        "votes":2975,
+        "offer":20,
+        "deliverytime":31,
+        "payment":"Cash, Card and UPI"
+    },
+
+    {
+        "id":"13",
+        "image":"https://b.zmtcdn.com/data/pictures/5/10975/a848c994d90eedce7bab2f6a3fa32b8a_o2_featured_v2.jpg",
+        "heading":"Kimling",
+        "serves":["Chinese", "Asian", "Fast Food", "Thai", "Seafood", "Sichuan"],
+        "rating":4.5,
+        "costforone":400,
+        "votes":3250,
+        "offer":40,
+        "deliverytime":40,
+        "payment":"Cash and Card"
+    },
+
+    {
+        "id":"14",
+        "image":"https://b.zmtcdn.com/data/pictures/chains/3/10503/c708fcdb888abd4f493c0fdc67ac766e_o2_featured_v2.jpg",
+        "heading":"Pizza Hut",
+        "serves":["Pizza", "Fast Food", "Desserts", "Beverages"],
+        "rating":3.5,
+        "costforone":250,
+        "votes":2125,
+        "offer":40,
+        "deliverytime":33,
+        "payment":"Cash, Card and UPI"
+    },
+
+    {
+        "id":"15",
+        "image":"https://b.zmtcdn.com/data/pictures/chains/1/10571/c0ba9ec0f08684316b2552a8eb5a1ea8_o2_featured_v2.jpg",
+        "heading":"McDonalds",
+        "serves":["Pizza", "Fast Food", "Desserts", "Beverages"],
+        "rating":4.3,
+        "costforone":210,
+        "votes":1475,
+        "offer":30,
+        "deliverytime":35,
+        "payment":"Cash, Card and UPI"
+    },
+
+    {
+        "id":"16",
+        "image":"https://b.zmtcdn.com/data/pictures/chains/0/13480/08c8c88c1b147ced1a213bf35337b761_o2_featured_v2.jpg",
+        "heading":"MH12 Pav Bhaji",
+        "serves":["Street Food", "Fast Food", "Beverages", "Desserts"],
+        "rating":4.6,
+        "costforone":170,
+        "votes":3375,
+        "offer":15,
+        "deliverytime":33
+    },
+
+    {
+        "id":"17",
+        "image":"https://b.zmtcdn.com/data/pictures/chains/8/12148/8ae28baddb7541270793a5fbd47cb248_o2_featured_v2.jpg",
+        "heading":"Shahji's Paratha House",
+        "serves":["North Indian"],
+        "rating":4.1,
+        "costforone":250,
+        "votes":2825,
+        "offer":25,
+        "deliverytime":40,
+        "payment":"Cash"
+    },
+
+    {
+        "id":"18",
+        "image":"https://b.zmtcdn.com/data/pictures/chains/6/11326/524ca3f88e6e998c5b31dcba189ffedc_o2_featured_v2.jpg",
+        "heading":"Rolls Mania",
+        "serves":["Rolls", "Fast Food", "North Indian", "Chinese"],
+        "rating":2.0,
+        "costforone":400,
+        "votes":1025,
+        "offer":65,
+        "deliverytime":40,
+        "payment":"Cash, Card and UPI"
+    },
+
+    {
+        "id":"19",
+        "image":"https://b.zmtcdn.com/data/pictures/chains/6/10556/9c9c5614ae656da63c55327768e32850_o2_featured_v2.jpg",
+        "heading":"Subway",
+        "serves":["Healthy Food", "Fast Food", "Beverages", "Desserts"],
+        "rating":4.1,
+        "costforone":300,
+        "votes":2575,
+        "offer":30,
+        "deliverytime":34,
+        "payment":"Cash and Card"
+    },
+
+    {
+        "id":"20",
+        "image":"https://b.zmtcdn.com/data/pictures/chains/3/18315713/afec4a554cbb34f85a13da1395384fdc_o2_featured_v2.jpg",
+        "heading":"Creezy Cheese",
+        "serves":["Fast Food", "Pizza", "Sandwich", "Beverages"],
+        "rating":2.5,
+        "costforone":200,
+        "votes":2775,
+        "offer":28,
+        "deliverytime":32,
+        "payment":"Cash, Card and UPI"
+    }
+]
